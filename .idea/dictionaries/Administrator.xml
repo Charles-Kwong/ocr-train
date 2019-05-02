@@ -1,0 +1,37 @@
+<component name="ProjectDictionaryState">
+  <dictionary name="Administrator">
+    <words>
+      <w>accu</w>
+      <w>charcode</w>
+      <w>ckpt</w>
+      <w>conv</w>
+      <w>crnn</w>
+      <w>cuda</w>
+      <w>dataset</w>
+      <w>dequeue</w>
+      <w>filenames</w>
+      <w>findpeaks</w>
+      <w>interence</w>
+      <w>logit</w>
+      <w>logprob</w>
+      <w>lstm</w>
+      <w>mnist</w>
+      <w>msyh</w>
+      <w>otsu</w>
+      <w>readline</w>
+      <w>regularaztion</w>
+      <w>regularizer</w>
+      <w>rtext</w>
+      <w>simfang</w>
+      <w>simhei</w>
+      <w>simkai</w>
+      <w>simsun</w>
+      <w>softmax</w>
+      <w>tensorboard</w>
+      <w>tensorflow</w>
+      <w>tfrecord</w>
+      <w>tfrecords</w>
+      <w>wellner</w>
+    </words>
+  </dictionary>
+</component>
